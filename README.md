@@ -4,7 +4,9 @@
 ## Lab 4 - Analyzing Network Data Log
 
 First-hand experience in doing basic analysis of data log.
+
 I have wrote a Python Jupyter notebook file to decipher the network traffic data captured.
+
 The program is able to:
 - List top 5 talkers
 - List top 5 talkers
